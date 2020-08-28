@@ -9,19 +9,17 @@ Plataforma de estudos online, onde é possível conectar alunos com professore
 
 ---
 # Projeto
-Para o front end, foi utilizado ReactJS
-Para o back end, foi utilizado o NodeJS
-A plataforma foi desenvolvida usando HTML, CSS, JS, Node.js etc.
+Consiste em criar uma plataforma de ensino em que aluno e professor possam se conectar de uma forma inteligente, sabendo os horários disponíveis para ambos.
 
 # Tecnologias utilizadas
-O projeto está desenvolvido utilizando as seguintes tecnologias:
+Desenvolvido utilizando as seguintes tecnologias:
 
-HTML
-CSS
-JavaScript
-Node.js
-Nunjucks
-SQLite
+HTML,
+CSS,
+JavaScript,
+Node.js,
+Nunjucks,
+SQLite.
 
 # Créditos
 Projeto desenvolvido durante a NextLevelWeek 2 da Rocketseat.
